@@ -5,6 +5,7 @@ import java.util.*;
 
 //백준 암호 해독 2149
 public class boj2149 {
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String key = br.readLine();

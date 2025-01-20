@@ -3,9 +3,11 @@ package string;
 import java.io.*;
 
 public class boj5525 {
+
     static int n, m;
     static String line;
     static int result, cnt;
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         n = Integer.parseInt(br.readLine());
@@ -22,8 +24,7 @@ public class boj5525 {
                     result++;
                 }
                 i++;
-            }
-            else {
+            } else {
                 cnt = 0;
             }
         }
