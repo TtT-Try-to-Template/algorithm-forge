@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 //백준 N과 M (4) 15652
-public class boj15652 {
+public class Boj15652 {
 
     static int n, m;
     static int[] arr;

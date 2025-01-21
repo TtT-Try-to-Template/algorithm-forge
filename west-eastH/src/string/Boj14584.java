@@ -3,7 +3,7 @@ package string;
 import java.io.*;
 
 //백준 암호해독 14584
-public class boj14584 {
+public class Boj14584 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String str = br.readLine();

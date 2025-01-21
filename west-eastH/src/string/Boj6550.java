@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 //백준 부분 문자열 6550
-public class boj6550 {
+public class Boj6550 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

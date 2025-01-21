@@ -9,7 +9,7 @@ import java.io.*;
 * */
 
 //백준 Hashing 15829
-public class boj15829 {
+public class Boj15829 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine());

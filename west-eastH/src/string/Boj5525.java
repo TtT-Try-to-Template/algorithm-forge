@@ -2,7 +2,7 @@ package string;
 
 import java.io.*;
 
-public class boj5525 {
+public class Boj5525 {
 
     static int n, m;
     static String line;

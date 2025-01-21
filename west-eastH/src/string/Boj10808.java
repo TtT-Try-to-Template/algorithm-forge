@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 //백준 알파벳 개수 10808
-public class boj10808 {
+public class Boj10808 {
 
     static int[] arr = new int[30];
 

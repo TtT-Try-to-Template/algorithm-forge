@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 //백준 스택 수열 1874
-public class boj1874 {
+public class Boj1874 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

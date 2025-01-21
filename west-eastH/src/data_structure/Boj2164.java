@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 //백준 카드2 2164
-public class boj2164 {
+public class Boj2164 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine());
